@@ -1,2 +1,2 @@
 # Teste
-Esse é o meu primeiro projeto no Git
+Esse é o meu primeiro projeto no Git.
